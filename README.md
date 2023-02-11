@@ -1,8 +1,12 @@
 # Profile
 <h1 align="center">I'm Dan Nguyen</h1>
 <h3 align="center">ブリッジSEとして働いています。</h3>
-<h5 align="center">暇の時自分のプロジェクトをやっています。</h5>
+<h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
 <hr>
+<h2 align="left">過去のプロダクト</h2>
+<ul>
+  <li>LocalguidePal</li>
+<ul>
 - 🔭 I’m currently working on **Localguide**
 
 - 🌱 I’m currently learning **AWS**
