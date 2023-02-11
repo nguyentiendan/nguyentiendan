@@ -17,8 +17,8 @@
     ・ガイドProfile (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Guide_profile.jpg" target="_blank">参考画像 </a>)<br/>
     ・管理者の機能（Dashboard）<br/><br/>
     <p><b>開発言語</b></p> 
-    ・フロンエンド：Gastby(version 1)(<a href="https://github.com/nguyentiendan/localguide_front">参考</a>). Version 2はNextJSを開発する(<a href="https://github.com/nguyentiendan/localguidepal">参考</a>)。<br/>
-    ・バックエンド：Golang(<a href="https://github.com/nguyentiendan/go_api">参考</a>), Gozilla Mux, ORMなど使う<br/>
+    ・フロンエンド：Gastby(version 1)(<a href="https://github.com/nguyentiendan/localguide_front" target="_blank">参考</a>). Version 2はNextJSを開発する(<a href="https://github.com/nguyentiendan/localguidepal" target="_blank">参考</a>)。<br/>
+    ・バックエンド：Golang(<a href="https://github.com/nguyentiendan/go_api" target="_blank">参考</a>), Gozilla Mux, ORMなど使う<br/>
     ・Infra：AWS S3, EC2, Cloudfrontなど使う<br/>
     ・Webサーバー、APIサーバー共NGINXを使う<br/>
   </p>
