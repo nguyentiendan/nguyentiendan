@@ -1,6 +1,6 @@
 # Profile
 <h1 align="center">I'm Dan Nguyen</h1>
-<p style="font-size:11px" align="center">(📫 : tiendanvn@gmail.com)</p>
+<p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>
 <h3 align="center">ブリッジSEとして働いています。</h3>
 <h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
 <hr>
@@ -17,15 +17,15 @@
     ・ガイドProfile (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Guide_profile.jpg" target="_blank">参考画像 </a>)<br/>
     ・管理者の機能（Dashboard）<br/><br/>
     <p><b>開発言語</b></p> 
-    ・フロンエンド：Gastby(version 1). Version 2はNextJSを開発する。<br/>
-    ・バックエンド：Golang, Gozilla Mux, ORMなど使う<br/>
+    ・フロンエンド：Gastby(version 1)(<a href="https://github.com/nguyentiendan/localguide_front">参考</a>). Version 2はNextJSを開発する(<a href="https://github.com/nguyentiendan/localguidepal">参考</a>)。<br/>
+    ・バックエンド：Golang(<a href="https://github.com/nguyentiendan/go_api">参考</a>), Gozilla Mux, ORMなど使う<br/>
     ・Infra：AWS S3, EC2, Cloudfrontなど使う<br/>
     ・Webサーバー、APIサーバー共NGINXを使う<br/>
   </p>
   残念ながら現在開発を停止しています。
 <h4 align="left">2)Japanese辞書</h4>
   <p>
-    ・Nextjs, AWS Amplify, Lambda, API Gateway, DynamoDB
+    ・Nextjs, AWS Amplify, Lambda, API Gateway, DynamoDB<br/>
     進行中
   </p>
 <hr>
