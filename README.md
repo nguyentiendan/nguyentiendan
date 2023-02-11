@@ -16,7 +16,13 @@
     ・ガイドー一覧<br/>
     ・ガイドProfile<br/>
     ・管理者の機能（Dashboard）<br/>
+    <p><b>開発言語</b></p> 
+    ・フロンエンド：Gastby(version 1). Version 2はNextJSを開発する。<br/>
+    ・バックエンド：Golang, Gozilla Mux, ORMなど使う<br/>
+    ・Infra：AWS S3, EC2, Cloudfrontなど使う<br/>
+    ・Webサーバー、APIサーバー共NGINXを使う<br/>
   </p>
+  残念ながら現在開発を停止しています。
 <h4 align="left">2)Japanese辞書</h4>
 
 
