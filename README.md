@@ -1,7 +1,8 @@
-# profile
-<h1 align="center">Hi 👋, I'm Dan Nguyenn</h1>
-<h3 align="center">BrSE</h3>
-
+# Profile
+<h1 align="center">I'm Dan Nguyen</h1>
+<h3 align="center">ブリッジSEとして働いています。</h3>
+<h5 align="center">暇の時自分のプロジェクトをやっています。</h5>
+<hr>
 - 🔭 I’m currently working on **Localguide**
 
 - 🌱 I’m currently learning **AWS**
