@@ -9,12 +9,11 @@
     ・LocalguidePalとは東京都内のガイドさんと旅行者をつなげる。ガイドさんはツアー計画を作成ができます。<br/>
     ・旅行者はLocalguidePalへアクセスして好きなツアーを予約ができます。ツアー予約だけではなくガイドさんにも予約ができます。<br/>
     <p><b>機能として</b></p>  
-    ・ツアー一覧 (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Guide_profile.jpg" target="_blank">参考画像 </a>)<br/>
-    ・ツアー詳細<br/>
-    ・ツアー検索<br/>
+    ・ツアー一覧 (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Home.jpg" target="_blank">参考画像 </a>)<br/>
+    ・ツアー詳細 (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Tour_detail.jpg" target="_blank">参考画像 </a>)<br/>
+    ・ツアー検索 (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Tour_search.jpg" target="_blank">参考画像 </a>)<br/>
     ・ツアー予約<br/>
-    ・ガイドー一覧<br/>
-    ・ガイドProfile<br/>
+    ・ガイドProfile (<a href="https://github.com/nguyentiendan/nguyentiendan/blob/main/%20img/Guide_profile.jpg" target="_blank">参考画像 </a>)<br/>
     ・管理者の機能（Dashboard）<br/><br/>
     <p><b>開発言語</b></p> 
     ・フロンエンド：Gastby(version 1). Version 2はNextJSを開発する。<br/>
