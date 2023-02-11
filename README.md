@@ -1,5 +1,6 @@
 # Profile
-<h1 align="center">I'm Dan Nguyen</h1>
+<h1 align="center">I'm Dan Nguyen</h1><br/>
+<p style="font-size:11px">(📫 : tiendanvn@gmail.com)</p>
 <h3 align="center">ブリッジSEとして働いています。</h3>
 <h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
 <hr>
@@ -28,9 +29,6 @@
     進行中
   </p>
 <hr>
-
-- 📫 Contact me **tiendanvn@gmail.com**
-
 <h2 align="left">Connect with me</h2>
 <div align="center">
   <a href="https://github.com/nguyentiendan" target="_blank">
