@@ -2,7 +2,8 @@
 <h1 align="center">I'm Dan Nguyen</h1>
 <p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>
 <h3 align="center">ブリッジSEとして働いています。</h3>
-<!--<h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
+<!--
+<h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
 <hr>
 <h2 align="left">プロジェクト</h2>
 <h4 align="left">1)LocalguidePal</h4>
