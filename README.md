@@ -1,6 +1,6 @@
 # Profile
 <h1 align="center">I'm Dan Nguyen</h1>
-<p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>
+<!--<p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>-->
 <h3 align="center">ブリッジSEとして働いています。</h3>
 
 <!--
