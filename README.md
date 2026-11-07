@@ -4,10 +4,14 @@
 <h3 align="center">ブリッジSEとして働いています。
 <br/>
   2025年からAIエンジニアへのキャリアチェンジを目指し、Python、生成AI、RAGなどを学習し、個人開発にも取り組みました。
-	実務としては社内AIチャットボット、社内文書向けのハイブリッド検索、LangGraphを用いたAgentic RAGを設計・開発しました。
-  個人開発については
-  ・フライト検索（LangGraphワークフロー）
-  ・在庫管理、発注管理（LangGraphエージェント）
+<br/>実務としては社内AIチャットボット、社内文書向けのハイブリッド検索、LangGraphを用いたAgentic RAGを設計・開発しました。
+<br/>個人開発を取り組み
+<br/>・日本の法令文書RAG（Dense検索＋ BM25（キーワード検索）＋ Graph展開（引用・委任関係の辿り））	
+<br/>・企業調査レポート（LangGraphワークフロー）	
+<br/>・フライト検索（LangGraphワークフロー）
+<br/>・在庫管理、発注管理（LangGraphエージェント）
+<br/>・エージェントハーネス（LangGraphエージェント）
+<br/>・Call Center
 </h3>
 
 <!--
