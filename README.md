@@ -1,6 +1,6 @@
 # Profile
 <!--<p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>-->
-<h5 align="left">ブリッジSEとして働いています。  
+<h5 align="left">
 <br/>・社内AIチャットボット、社内文書向けのハイブリッド検索、LangGraphを用いたAgentic RAGを設計・開発する。
 <br/>・日本の法令文書RAG（Dense検索＋ BM25（キーワード検索）＋ Graph展開（引用・委任関係の辿り））	
 <br/>・企業調査レポート（LangGraphワークフロー）	
