@@ -1,7 +1,7 @@
 # Profile
 <h1 align="center">I'm Dan Nguyen</h1>
 <!--<p style="font-size:11px;color:'blue'" align="center">📫 : tiendanvn@gmail.com</p>-->
-<h3 align="center">ブリッジSEとして働いています。
+<h4 align="left">ブリッジSEとして働いています。
 <br/>
   2025年からAIエンジニアへのキャリアチェンジを目指し、Python、生成AI、RAGなどを学習し、個人開発にも取り組みました。
 <br/>実務としては社内AIチャットボット、社内文書向けのハイブリッド検索、LangGraphを用いたAgentic RAGを設計・開発しました。
@@ -12,7 +12,7 @@
 <br/>・在庫管理、発注管理（LangGraphエージェント）
 <br/>・エージェントハーネス（LangGraphエージェント）
 <br/>・Call Center
-</h3>
+</h4>
 
 <!--
 <h5 align="center">暇の時、好きな技術を勉強しプロダクト開発する。子供と遊ぶ。</h5>
